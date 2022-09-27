@@ -1,0 +1,2 @@
+20220927	18:53:47	7372ae75-67a3-4b43-baa9-ab760dd4ce62	Log event emitted
+20220927	18:53:59	9772ba7b-1816-4f96-9e91-8fb389d8caba	Log event emitted
